@@ -1,0 +1,10 @@
+The sales analysis on Superstore dataset is a study aimed at analyzing the sales performance of a fictional retail company called "Superstore".
+The analysis utilizes a dataset containing information about sales transactions, customers, products, and geographical locations.
+A superstore operating within the US has given us the task to identify what works best for them in terms of sales and making profit.
+
+Using exploratory data analysis (EDA) we will help them identify: 
+      (i) Their most and least profitable product categories
+      (ii) Segment analysis of sales and profit
+      (iii) Geographical analysis of sales and profit
+
+Given the insights gained from the EDA, the superstore can choose to remove non-profitable products or invest in marketing efforts for products, segments and geographical areas that are driving their profit
